@@ -14,5 +14,5 @@
     "OTEL_LOG_RAW_API_BODIES": "1",
     "CLAUDE_CODE_PROPAGATE_TRACEPARENT": "1"
   },
-  "enabledMcpjsonServers": ["echo-traceparent"]
+  "enabledMcpjsonServers": ["traceparent-poc"]
 }
